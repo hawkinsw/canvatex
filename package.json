@@ -2,6 +2,7 @@
 	"name": "canvatex",
 	"displayName": "CanvaTeX",
 	"description": "Replace LaTeX snippets with their rendered version using the Canvas web API.",
+	"repository": {"type": "git", "url": "https://github.com/hawkinsw/canvatex.git"},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.67.0"
